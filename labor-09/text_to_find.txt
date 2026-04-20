@@ -1,0 +1,9 @@
+apple
+banana
+cat
+dog
+hello
+house
+java
+programming
+world
